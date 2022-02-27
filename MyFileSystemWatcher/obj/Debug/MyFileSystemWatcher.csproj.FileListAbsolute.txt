@@ -1,0 +1,13 @@
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\bin\Debug\MyFileSystemWatcher.exe.config
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\bin\Debug\MyFileSystemWatcher.exe
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\bin\Debug\MyFileSystemWatcher.pdb
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\obj\Debug\MyFileSystemWatcher.csprojResolveAssemblyReference.cache
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\obj\Debug\MyFileSystemWatcher.Properties.Resources.resources
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\obj\Debug\MyFileSystemWatcher.csproj.GenerateResource.Cache
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\obj\Debug\MyFileSystemWatcher.exe
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\obj\Debug\MyFileSystemWatcher.pdb
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\bin\Debug\FWSdatabase.db
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\bin\Debug\System.Data.SQLite.dll
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\bin\Debug\System.Data.SQLite.xml
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\obj\Debug\MyFileSystemWatcher.FileSystemWatcterForm.resources
+G:\filesystem\MyFileSystemWatcher\MyFileSystemWatcher\obj\Debug\MyFileSystemWatcher.QueryForm.resources
